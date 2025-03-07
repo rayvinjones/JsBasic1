@@ -1,5 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
 const num1Txt = document.getElementById("num1");
 const num2Txt = document.getElementById("num2");
 const resultSum = document.getElementById("sum");
